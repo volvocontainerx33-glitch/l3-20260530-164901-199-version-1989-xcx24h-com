@@ -1,5 +1,0 @@
-parsed_movies=2000
-category_pages=10
-detail_pages=2000
-poster_images=150
-hls_sources=20
